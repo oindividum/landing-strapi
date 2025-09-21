@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "line_logos",
+  "info": {
+    "singularName": "line-logo",
+    "pluralName": "line-logos",
+    "displayName": "lineLogo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "lineLogo": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

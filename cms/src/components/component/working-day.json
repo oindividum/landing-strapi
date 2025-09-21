@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_component_working_days",
+  "info": {
+    "displayName": "Working Day"
+  },
+  "options": {},
+  "attributes": {
+    "day_range": {
+      "type": "string"
+    },
+    "hours": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
